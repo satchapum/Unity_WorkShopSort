@@ -102,7 +102,6 @@ public class GameOfLife : MonoBehaviour
                             true,
                             true
                         );
-                        TargetCount++;
                         break;
                 }
             }
