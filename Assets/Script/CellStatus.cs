@@ -26,7 +26,7 @@ public class CellStatus
         set { this._isTarget = value; }
     }
 
-    public CellStatus(bool isAlive, bool _isFixed, bool isTarget)
+    public CellStatus(bool isAlive, bool isFixed, bool isTarget)
     {
         this.isAlive = isAlive;
         this.isFixed = isFixed;
